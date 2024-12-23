@@ -1,0 +1,77 @@
+# Android/IntelliJ specific files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Android build output
+/build/
+captures/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android Studio specific files
+.idea/
+*.iws
+*.ipr
+*.log
+
+# Log files
+*.log
+
+# User-specific configuration files
+*.keystore
+*.jks
+
+# Android dependencies (from Gradle)
+*.jar
+*.aar
+*.apk
+
+# Kotlin specific
+*.kotlin_metadata
+
+# Caches and compiled files
+# Kotlin
+.kotlinc/
+
+# Android Studio 4.0+ gradle plugin
+/.gradle/
+
+# Proguard mapping files
+proguard/
+
+# Temporary files generated during build
+*.out
+
+# JetBrains specific files
+/.idea/
+
+# User-specific Android Studio configurations
+.idea/libraries/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/modules.xml
+.idea/dictionaries/
+
+# Firebase & Crashlytics files
+firebase/
+
+# JetBrains IDE generated files
+*.iml
+.idea/
+
+# NDK build
+/ndk/
+
+# Built binary files
+*.apk
+*.ap_ 
